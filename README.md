@@ -1,5 +1,5 @@
 # Tester
 
 ```sh
-docker pull gboo/redis-tester
+docker run --rm gboo/redis-tester redis.mycompany.com
 ```
